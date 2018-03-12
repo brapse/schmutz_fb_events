@@ -1,0 +1,8 @@
+.cache/*
+data/*
+build/*
+dist/*
+vendor/*
+notebooks/.ipynb_checkpoints/*
+*.pyc
+*.egg-info
